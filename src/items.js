@@ -1,5 +1,12 @@
 export default [
   {
+    id: 'OOPAndInheritanceAssignment',
+    name: 'OOP And Inheritance Assignment',
+    tags: ['Java', 'School Work'],
+    github: 'https://github.com/ggggg/Algorithms-Assignment',
+    description: 'An assignment showcasing OOP fetures in Java for computer science 12 course.',
+  },
+  {
     id: 'BPEssentials',
     name: 'BP Essentials',
     contributors: ['PLASMAchicken', 'UserR00T'],
@@ -22,12 +29,26 @@ export default [
     description: 'A plugin allowing player vs player fights in the game Broke Protocol.',
   },
   {
+    id: 'AlgorithmsAssignment',
+    name: 'Java Algorithms Assignment',
+    tags: ['Java', 'School Work'],
+    github: 'https://github.com/ggggg/Algorithms-Assignment',
+    description: 'A utills class full of usfull algorithms made in Java for computer science 12 course.',
+  },
+  {
     id: 'PlWebsiteShop',
     name: 'Pointlife Website + Shop',
-    tags: ['JavaScript', 'Broke Protocol', 'VueJs', 'NodeJs'],
+    tags: ['JavaScript', 'Broke Protocol', 'VueJs', 'NodeJs', 'HTML'],
     private: true,
     contributors: ['PLASMAchicken', 'SinedxGames'],
     description: 'A website connected to the Pointlife Broke Protocol server that allows users to purchase ranks, look for users, and view their info. <br> <a href="https://pointlife.net" target="_blank">Pointlife Website</a>',
+  },
+  {
+    id: 'UTSC-cs12',
+    name: 'Unoffical University of Toronto Scarborough Computer Science Website.',
+    tags: ['HTML', 'School Work'],
+    github: 'https://github.com/ggggg/UTSC-cs12',
+    description: 'A site showcasing University of Toronto Scarborough\'s Computer Science program made in HTML for computer science 12 course. <br><a href="https://ggggg.github.io/UTSC-cs12/" target="_blank">Click here to view the site.</a>',
   },
   {
     id: 'ppcwebpanel',
@@ -36,6 +57,13 @@ export default [
     private: true,
     contributors: ['PLASMAchicken'],
     description: 'A discord bot connected to the Pointlife Broke Protocol server that allows users to report users, view their info, in addtion to that it also allows staff to modrate the server with the discord interface.',
+  },
+  {
+    id: 'DinoGame',
+    name: 'Java Dino Game',
+    tags: ['Java', 'School Work'],
+    github: 'https://github.com/ggggg/Java-dino-game',
+    description: 'A simple and fun game made in Java for computer science 11 course.',
   },
   {
     id: 'Ghooks',
@@ -73,5 +101,12 @@ export default [
     private: true,
     tags: ['NodeJs', 'Discord', 'JavaScript'],
     description: 'Unofficial antivirus discord bot made using Virustotal\'s v3 API, made to scan links, files, and attachments. <br> See <a href="https://top.gg/bot/790032946425364510" target="_blank">Top.gg bot listing</a>',
+  },
+  {
+    id: 'BankSim',
+    name: 'Bank Simulator',
+    github: 'https://github.com/ggggg/BankSim',
+    tags: ['Java', 'School Work'],
+    description: 'A bank progarm made in Java and uses MongoDB database.<br>Made part of Computer Science 12 course.',
   },
 ];
