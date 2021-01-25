@@ -2,9 +2,11 @@
   <div class="home text-center">
     <h1>Hello World!</h1>
     <h2>My name is Ido Ben Haim and this is my portfolio showcasing my last year's work.</h2>
-    <router-link class="nav-btn btn btn-primary" to="/projects">My Projects</router-link>
-    <router-link class="nav-btn btn btn-primary" to="/about">About Me</router-link>
-    <router-link class="nav-btn btn btn-primary" to="/page">About this site</router-link>
+    <div class="nav-contrainer">
+      <router-link class="nav-btn btn btn-primary" to="/projects">My Projects</router-link>
+      <router-link class="nav-btn btn btn-primary" to="/about">About Me</router-link>
+      <router-link class="nav-btn btn btn-primary" to="/page">About this site</router-link>
+    </div>
   </div>
 </template>
 <style scoped>
@@ -28,7 +30,15 @@ h2 {
   font-weight: normal;
   font-family: Arial;
 }
-.nav-btn{
+.nav-btn {
   margin: 0px 10px;
+}
+@media (max-width: 1184px) {
+  .nav-btn {
+    margin-top: 10px;
+  }
+  .nav-contrainer {
+    margin-top: -10px;
+  }
 }
 </style>
