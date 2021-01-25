@@ -4,6 +4,7 @@ import Home from '../views/Home.vue';
 import ProjectView from '../views/ProjectView.vue';
 import Projects from '../views/Projects.vue';
 import AboutMe from '../views/AboutMe.vue';
+import AboutPage from '../views/AboutPage.vue';
 
 Vue.use(VueRouter);
 
@@ -27,6 +28,11 @@ const routes = [
     path: '/about',
     name: 'About Me',
     component: AboutMe,
+  },
+  {
+    path: '/page',
+    name: 'About This Site',
+    component: AboutPage,
   },
 ];
 
