@@ -1,12 +1,19 @@
 <template>
   <div id="app" class="container-fluid">
-    <router-link class="h2 mb-2" to="/"><b-icon icon="house-door-fill"/></router-link>
+    <router-link class="h2 mb-2" to="/">
+      <b-icon icon="house-door-fill" />
+    </router-link>
     <router-view />
   </div>
 </template>
 
 <style lang="scss">
-$background-color: rgba(212, 255, 214, 0.897);
+$body-bg: rgba(212, 255, 214, 0.897);
+$body-color: #111;
+$primary: rgb(12, 56, 251) !default;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap-vue/src/index.scss";
 
 #app {
   width: 100%;
@@ -14,12 +21,9 @@ $background-color: rgba(212, 255, 214, 0.897);
   height: 100%;
   height: 100vh;
   color: black;
-  background-color: $background-color;
   overflow-x: hidden;
+  background-color: $body-bg;
 }
-// html {
-//   scroll-behavior: smooth
-// }
 .page-body {
   margin: auto;
   width: 80%;

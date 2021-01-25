@@ -93,7 +93,7 @@ export default [
     tags: ['React', 'React Native', 'NodeJs', 'JavaScript'],
     private: true,
     contributors: ['razprofile'],
-    description: 'ToDo mobile app made in react native.',
+    description: 'ToDo mobile app made in react native. Made as a practice project to try making apps.<br>Includes login + registraion screens <br><img src="assets/1mintodo.png" width="30%"/>',
   },
   {
     id: 'VirusTotalBot',
