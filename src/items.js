@@ -27,7 +27,7 @@ export default [
     tags: ['JavaScript', 'Broke Protocol', 'VueJs', 'NodeJs'],
     private: true,
     contributors: ['PLASMAchicken', 'SinedxGames'],
-    description: 'A website connected to the Pointlife Broke Protocol server that allows users to purchase ranks, look for users, and view their info.',
+    description: 'A website connected to the Pointlife Broke Protocol server that allows users to purchase ranks, look for users, and view their info. <br> <a href="https://pointlife.net" target="_blank">Pointlife Website</a>',
   },
   {
     id: 'ppcwebpanel',

@@ -77,7 +77,7 @@ export default {
     if (!this.$route.params || !this.$route.params.id) this.$router.push('/');
     const item = items.find((x) => x.id === this.$route.params.id);
     if (!item) this.$router.push('/');
-    console.log(item);
+    document.title = `Ido's Portfolio - ${item.name}`;
     this.item = item;
   },
 };

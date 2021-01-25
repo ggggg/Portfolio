@@ -2,10 +2,10 @@
   <div class="page-body container">
     <h1 class="text-center">My Projects</h1>
     <div class="row">
-      <div class="col-8">
+      <div class="col-sm-8">
         <ItemViewList v-for="item in items" :item="item" :key="item.id" />
       </div>
-      <div class="col filter">
+      <div class="col-sm-4 filter">
         <form herf="#" class="form-inline">
           <div class="form-group">
             <label for="tags">Search by tag:</label>
@@ -96,7 +96,6 @@ export default {
           if (!arr.includes(tag)) arr.push(tag);
         });
       });
-      console.log(arr);
       return arr;
     },
   },
@@ -109,11 +108,7 @@ export default {
   methods: {
     changePage(page) {
       this.$router.push({ path: '/projects', query: { page } });
-      window.scroll({
-        top: 0,
-        left: 0,
-        behavior: 'smooth',
-      });
+      window.scrollTo(-1000, -1000);
       this.page = page;
     },
   },
@@ -122,6 +117,9 @@ export default {
       this.changePage(1);
     },
     search() {
+      this.changePage(1);
+    },
+    openSource() {
       this.changePage(1);
     },
   },

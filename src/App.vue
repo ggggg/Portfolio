@@ -6,7 +6,7 @@
 
 <style lang="scss">
 $background-color: rgba(212, 255, 214, 0.897);
-// test
+
 #app{
   width:100%;
   width: 100vw;
@@ -16,9 +16,9 @@ $background-color: rgba(212, 255, 214, 0.897);
   background-color: $background-color;
   overflow-x: hidden;
 }
-html {
-  scroll-behavior: smooth
-}
+// html {
+//   scroll-behavior: smooth
+// }
 .page-body{
     margin: auto;
   width: 80%;

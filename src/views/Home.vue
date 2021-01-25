@@ -4,7 +4,7 @@
     <h2>My name is Ido Ben Haim and this is my portfolio showcasing my last year's work.</h2>
     <router-link class="nav-btn btn btn-primary" to="/projects">My Projects</router-link>
     <router-link class="nav-btn btn btn-primary" to="/about">About Me</router-link>
-    <router-link class="nav-btn btn btn-primary" to="/page">About this page</router-link>
+    <router-link class="nav-btn btn btn-primary" to="/page">About this site</router-link>
   </div>
 </template>
 <style scoped>
@@ -13,7 +13,6 @@
   position: absolute;
   position: fixed;
   padding: 50px 100px;
-  /* offset-x | offset-y | blur-radius | spread-radius | color */
   box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.637);
   top: 50%;
   left: 50%;
