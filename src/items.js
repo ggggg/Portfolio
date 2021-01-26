@@ -1,10 +1,10 @@
 export default [
   {
     id: 'OOPAndInheritanceAssignment',
-    name: 'OOP And Inheritance Assignment',
+    name: 'OOP And Inheritance Assignment + Data structures',
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/Algorithms-Assignment',
-    description: 'An assignment showcasing OOP fetures in Java for computer science 12 course.',
+    description: 'An assignment showcasing OOP fetures + data structures (such as hashmaps, arrays, list...) in Java for computer science 12 course.',
   },
   {
     id: 'BPEssentials',
@@ -56,7 +56,7 @@ export default [
     tags: ['JavaScript', 'Broke Protocol', 'NodeJs', 'Discord'],
     private: true,
     contributors: ['PLASMAchicken'],
-    description: 'A discord bot connected to the Pointlife Broke Protocol server that allows users to report users, view their info, in addtion to that it also allows staff to modrate the server with the discord interface.',
+    description: 'A discord bot connected to the Pointlife Broke Protocol server that allows users to report users, view their info, in addtion to that it also allows staff to modrate the server with the discord interface. <iframe width="560" height="315" src="https://www.youtube.com/embed/079bg2jlT3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   },
   {
     id: 'DinoGame',
