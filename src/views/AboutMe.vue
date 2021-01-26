@@ -24,5 +24,10 @@
       <li>CSS/SCSS</li>
       <li>Python</li>
     </ul>
+    <h4>Plans For The Future</h4>
+    <p>
+      After graduating high school I would like to go to UofT to study computer science,
+      and after that I would like to get a job in the topic.
+    </p>
   </div>
 </template>

@@ -96,6 +96,13 @@ export default [
     description: 'ToDo mobile app made in react native. Made as a practice project to try making apps.<br>Includes login + registraion screens <br><img src="assets/1mintodo.png" width="30%"/>',
   },
   {
+    id: 'ComputersAndSociety',
+    name: 'Computers And Society Writing Piece.',
+    tags: ['School Work'],
+    private: true,
+    description: 'A 500+ word writing piece about the impact of facial recognition technology on society.',
+  },
+  {
     id: 'VirusTotalBot',
     name: 'Virus Total Bot',
     private: true,
