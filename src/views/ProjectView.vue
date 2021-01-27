@@ -15,16 +15,17 @@
       <div class="col">
         <div class="col">
           <div class="row">
+            <div>
             <h3>
               <b>Tags:</b>
             </h3>
-            <br />
             <div class="tag-container">
               <button
                 v-for="tag in item.tags"
                 :key="tag"
                 class="btn btn-primary rounded-pill btn-tag"
               >{{tag}}</button>
+            </div>
             </div>
           </div>
         </div>

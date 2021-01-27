@@ -115,6 +115,6 @@ export default [
     name: 'Bank Simulator',
     github: 'https://github.com/ggggg/BankSim',
     tags: ['Java', 'School Work'],
-    description: 'A bank progarm made in Java and uses MongoDB database.<br>Made part of Computer Science 12 course.',
+    description: 'A bank progarm made in Java and uses MongoDB database.<br>Made part of Computer Science 12 course.<br> <img src="assets/Bank.PNG" width="50%"/><br> <img src="assets/homePage.PNG" width="50%"/>',
   },
 ];
