@@ -3,7 +3,7 @@ export default [
     id: 'OOPAndInheritanceAssignment',
     name: 'OOP And Inheritance Assignment + Data structures',
     tags: ['Java', 'School Work'],
-    github: 'https://github.com/ggggg/Algorithms-Assignment',
+    github: 'https://github.com/ggggg/Assignment-2-OOP-and-inheritance',
     description: 'An assignment showcasing OOP fetures + data structures (such as hashmaps, arrays, list...) in Java for computer science 12 course.',
   },
   {
@@ -19,7 +19,7 @@ export default [
     name: 'Java Swing Navigator',
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/SwingNavigator',
-    description: 'Java screen manager library for the java swing lib, allowing for easy naviation.',
+    description: 'Java screen manager library for the java swing lib, allowing for easy naviation, allows for window resizing and window states.',
   },
   {
     id: 'BpTheGpvp',
