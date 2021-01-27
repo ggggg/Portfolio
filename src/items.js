@@ -33,7 +33,8 @@ export default [
     name: 'Java Algorithms Assignment',
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/Algorithms-Assignment',
-    description: 'A utills class full of usfull algorithms made in Java for computer science 12 course.',
+    description: 'A utills class full of useful algorithms made in Java for computer science 12 course.<br>List of algorithms used:'
+    + '<ul><li>Binary search</li><li>Linear search</li><li>Bubble sort</li><li>Selection sort</li></ul>',
   },
   {
     id: 'PlWebsiteShop',
@@ -78,7 +79,7 @@ export default [
     name: 'Python Assignment',
     tags: ['Python', 'School Work'],
     github: 'https://github.com/ggggg/PythonAssignment-',
-    description: 'Introductory python assignment for computer science 12.',
+    description: 'Introductory python assignment for computer science 12 that thought me the basics of the Python programing language.',
   },
   {
     id: 'JavaTaskManager',
@@ -100,7 +101,7 @@ export default [
     name: 'Computers And Society Writing Piece.',
     tags: ['School Work'],
     private: true,
-    description: 'A 500+ word writing piece about the impact of facial recognition technology on society.',
+    description: 'A 500+ word writing piece exploring the impact of facial recognition technology on society.',
   },
   {
     id: 'VirusTotalBot',
