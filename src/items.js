@@ -115,6 +115,11 @@ export default [
     name: 'Bank Simulator',
     github: 'https://github.com/ggggg/BankSim',
     tags: ['Java', 'School Work'],
-    description: 'A bank progarm made in Java and uses MongoDB database.<br>Made part of Computer Science 12 course.<br> <img src="assets/Bank.PNG" width="50%"/><br> <img src="assets/homePage.PNG" width="50%"/>',
+    description: 'A bank progarm made in Java and uses MongoDB database.<br>Made part of Computer Science 12 course.'
+    + '<h4>Features</h4>'
+    + '<ul><li>Interactive GUI</li><li>Resizable display</li><li>Database connection to allow data being saved accross devices</li></ul>'
+    + '<h4>Some Of The Challenges Faced In Devlopment</h4>'
+    + '<ul><li>Shipping and validating database URL</li><li>Storing passwords safely in a hash</li><li>Making the window not resize when switching pages</li></ul>'
+    + '<br><iframe width="560" height="315" src="https://www.youtube.com/embed/z-zVnGAJ13E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> <img src="assets/Bank.PNG" width="50%"/><br> <img src="assets/homePage.PNG" width="50%"/>',
   },
 ];
