@@ -9,7 +9,7 @@ export default [
     + '<ul>'
     + '<li>I learnt how to use classes and objects in Java</li>'
     + '<li>I learnt about diffrent types of data structures and when to use each</li>'
-    + '<li>I learnt how to make an effective console interface'
+    + '<li>I learnt how to make an effective console interface</li>'
     + '</ul>',
   },
   {
@@ -49,14 +49,26 @@ export default [
     tags: ['JavaScript', 'Broke Protocol', 'VueJs', 'NodeJs', 'HTML'],
     private: true,
     contributors: ['PLASMAchicken', 'SinedxGames'],
-    description: 'A website connected to the Pointlife Broke Protocol server that allows users to purchase ranks, look for users, and view their info. <br> <a href="https://pointlife.net" target="_blank">Pointlife Website</a>',
+    description: 'A website connected to the Pointlife Broke Protocol server that allows users to purchase ranks, look for users, and view their info. <br> <a href="https://pointlife.net" target="_blank">Pointlife Website</a>'
+    + '<h4>What I learnt</h4>'
+    + '<ul>'
+    + '<li>Vue.Js PWA devlopment.</li>'
+    + '<li>Devloping a REST API with express and NodeJs</li>'
+    + '<li>Nice bootstrap design</li>'
+    + '</ul>',
   },
   {
     id: 'UTSC-cs12',
     name: 'Unoffical University of Toronto Scarborough Computer Science Website.',
     tags: ['HTML', 'School Work'],
     github: 'https://github.com/ggggg/UTSC-cs12',
-    description: 'A site showcasing University of Toronto Scarborough\'s Computer Science program made in HTML for computer science 12 course. <br><a href="https://ggggg.github.io/UTSC-cs12/" target="_blank">Click here to view the site.</a>',
+    description: 'A site showcasing University of Toronto Scarborough\'s Computer Science program made in HTML for computer science 12 course. <br><a href="https://ggggg.github.io/UTSC-cs12/" target="_blank">Click here to view the site.</a>'
+    + '<h4>What I learnt</h4>'
+    + '<ul>'
+    + '<li>Vue.Js PWA devlopment.</li>'
+    + '<li>I learnt about diffrent types of data structures and when to use each</li>'
+    + '<li>I learnt how to make an effective console interface</li>'
+    + '</ul>',
   },
   {
     id: 'ppcwebpanel',
