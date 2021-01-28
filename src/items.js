@@ -121,5 +121,6 @@ export default [
     + '<h4>Some Of The Challenges Faced In Devlopment</h4>'
     + '<ul><li>Shipping and validating database URL</li><li>Storing passwords safely in a hash</li><li>Making the window not resize when switching pages</li></ul>'
     + '<br><iframe width="560" height="315" src="https://www.youtube.com/embed/z-zVnGAJ13E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> <img src="assets/Bank.PNG" width="50%"/><br> <img src="assets/homePage.PNG" width="50%"/>',
+    + '<h4>Also see:</h4><br><a href="https://ggggg.github.io/Portfolio/#/p/SwingNavigator">Swing Navigator</a>'
   },
 ];
