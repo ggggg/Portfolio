@@ -4,7 +4,13 @@ export default [
     name: 'OOP And Inheritance Assignment + Data structures',
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/Assignment-2-OOP-and-inheritance',
-    description: 'An assignment showcasing OOP fetures + data structures (such as hashmaps, arrays, list...) in Java for computer science 12 course.',
+    description: 'An assignment showcasing OOP fetures + data structures (such as hashmaps, arrays, list...) in Java for computer science 12 course.'
+    + '</ul>'
+    + '<h4>What I learnt</h4>'
+    + '<li>I learnt how to use classes and objects in Java</li>'
+    + '<li>I learnt about diffrent types of data structures and when to use each</li>'
+    + '<li>I learnt how to make an effective console interface'
+    + '</ul>',
   },
   {
     id: 'BPEssentials',
@@ -109,7 +115,19 @@ export default [
     name: 'Virus Total Bot',
     private: true,
     tags: ['NodeJs', 'Discord', 'JavaScript'],
-    description: 'Unofficial antivirus discord bot made using Virustotal\'s v3 API, made to scan links, files, and attachments. <br> See <a href="https://top.gg/bot/790032946425364510" target="_blank">Top.gg bot listing</a>',
+    description: '<h3>Inspiration</h3>'
+      + '<p>Millions of malware attacks occur every day, many of which claim unfortunate victims, stealing money, passwords, and information. When one day I was sent a virus in my discord DMs which I almost ran until it crossed my mind that I should scan it using VirusTotal, luckily I did and it saved my PC. The only thing that was not good is that I had to download the malicious file in order to upload and scan it. That\'s when user Deaddiamond123#5065 suggested I will use VirusTotal\'s API to make a bot that allows users to scan files, links, and attachments.</p> <br> See <a href="https://top.gg/bot/790032946425364510" target="_blank">Top.gg bot listing</a>'
+      + '<h4>Features</h4>'
+      + '<ul>'
+      + '<li>Set custom prefix.</li>'
+      + '<li>Scan attachments, files, and link for virus and other malware</li>'
+      + '<li>Comprehensive reports.</li>'
+      + '<li>Easy to use.</li>'
+      + '</ul>'
+      + '<h4>What I learnt</h4>'
+      + '<li>I learnt how to use REST HEAD requst to check file size</li>'
+      + '<li>I learnt how to effectively use an API and report errors in a user friendly way</li>'
+      + '</ul>',
   },
   {
     id: 'BankSim',
