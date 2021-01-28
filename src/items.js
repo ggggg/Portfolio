@@ -26,7 +26,7 @@ export default [
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/SwingNavigator',
     description: 'Java screen manager library for the java swing lib, allowing for easy naviation, allows for window resizing and window states.'
-    + '<iframe width="560" height="315" src="https://www.youtube.com/embed/RL2s3_sfMeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    + '<br><iframe width="560" height="315" src="https://www.youtube.com/embed/RL2s3_sfMeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   },
   {
     id: 'BpTheGpvp',
