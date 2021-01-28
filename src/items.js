@@ -65,9 +65,8 @@ export default [
     description: 'A site showcasing University of Toronto Scarborough\'s Computer Science program made in HTML for computer science 12 course. <br><a href="https://ggggg.github.io/UTSC-cs12/" target="_blank">Click here to view the site.</a>'
     + '<h4>What I learnt</h4>'
     + '<ul>'
-    + '<li>Vue.Js PWA devlopment.</li>'
-    + '<li>I learnt about diffrent types of data structures and when to use each</li>'
-    + '<li>I learnt how to make an effective console interface</li>'
+    + '<li>HTML + CSS Design</li>'
+    + '<li>Javascript calculations</li>'
     + '</ul>',
   },
   {
