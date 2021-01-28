@@ -5,8 +5,8 @@ export default [
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/Assignment-2-OOP-and-inheritance',
     description: 'An assignment showcasing OOP fetures + data structures (such as hashmaps, arrays, list...) in Java for computer science 12 course.'
-    + '</ul>'
     + '<h4>What I learnt</h4>'
+    + '<ul>'
     + '<li>I learnt how to use classes and objects in Java</li>'
     + '<li>I learnt about diffrent types of data structures and when to use each</li>'
     + '<li>I learnt how to make an effective console interface'
