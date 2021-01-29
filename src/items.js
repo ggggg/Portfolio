@@ -88,7 +88,7 @@ export default [
     name: 'Java Dino Game',
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/Java-dino-game',
-    description: 'A simple and fun game made in Java for computer science 11 course.<br>'
+    description: 'A simple and fun game made in Java for computer science 11 course. Inspired by the google chrome game.<br>'
     + '<h4>What I learnt</h4>'
     + '<ul>'
     + '<li>HTML + CSS Design</li>'
