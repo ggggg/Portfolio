@@ -75,14 +75,25 @@ export default [
     tags: ['JavaScript', 'Broke Protocol', 'NodeJs', 'Discord'],
     private: true,
     contributors: ['PLASMAchicken'],
-    description: 'A discord bot connected to the Pointlife Broke Protocol server that allows users to report users, view their info, in addtion to that it also allows staff to modrate the server with the discord interface. <iframe width="560" height="315" src="https://www.youtube.com/embed/079bg2jlT3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+    description: 'A discord bot connected to the Pointlife Broke Protocol server that allows users to report users, view their info, in addtion to that it also allows staff to modrate the server with the discord interface.'
+    + '<h4>What I learnt</h4>'
+    + '<ul>'
+    + '<li>The use of Discord.JS libray</li>'
+    + '<li>MongoDB usage</li>'
+    + '</ul>'
+    + '<iframe width="560" height="315" src="https://www.youtube.com/embed/079bg2jlT3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
   },
   {
     id: 'DinoGame',
     name: 'Java Dino Game',
     tags: ['Java', 'School Work'],
     github: 'https://github.com/ggggg/Java-dino-game',
-    description: 'A simple and fun game made in Java for computer science 11 course.',
+    description: 'A simple and fun game made in Java for computer science 11 course.<br>'
+    + '<h4>What I learnt</h4>'
+    + '<ul>'
+    + '<li>HTML + CSS Design</li>'
+    + '<li>Javascript calculations</li>'
+    + '</ul>',
   },
   {
     id: 'Ghooks',
